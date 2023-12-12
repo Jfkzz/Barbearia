@@ -1,6 +1,23 @@
-h1{
-    text-aligh: center;
+body {
+    background: #00eeffcc
 }
-p{
-     text aligh: center;
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center     
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px 
+}
+
+em strong {
+    color: #00ff4ccc
 }
